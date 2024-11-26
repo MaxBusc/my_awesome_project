@@ -5,3 +5,5 @@
  roses are violet
  reds are blue
  I may be colorblind (and dyslexic)
+
+"J'ai réussi à faire clone, pull et je m'apprête à faire push".
